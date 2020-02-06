@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    grid-template-columns: 200px;
+    grid-template-rows: 90px 20px;
+}
+
+.card {    
+    color: black;
+    background-color: bisque;
+    font-family: Times, serif;
+    font-weight: bold;
+    width: 250px;
+    align-content: center;
+}
